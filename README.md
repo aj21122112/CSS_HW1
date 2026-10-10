@@ -1,2 +1,1 @@
-# CSS_HW1
-HW1 for CSS class
+# week1-css-HW1
